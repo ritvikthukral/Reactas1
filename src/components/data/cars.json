@@ -1,0 +1,197 @@
+[
+    {
+      "id": 1,
+      "name": "Mercede",
+      "brand": "Mercedes Benz",
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/AMG-G-63/9737/1679289361128/front-left-side-47.jpg"
+    },
+    {
+      "id": 2,
+      "name": "BMW i8",
+      "brand": "BMW",
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/BMW/5-Series-2024/10182/1685002609273/front-left-side-47.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Creta",
+      "brand": "Hyundai",
+      "image": "https://www.drivespark.com/img/2016/11/09-1478687528-hyundai-creta-facelift-debut-07.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Verna",
+      "brand": "Hyundai",
+      "image": "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/Verna/Exterior/pc/March/top-image.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Seltos",
+      "brand": "Kia",
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Kia/Sonet/10879/1690461063637/front-left-side-47.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jaguar",
+      "brand": "Jaguar",
+      "image": "https://images.indianexpress.com/2021/06/JAGUAR-F-PACE.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Car 7",
+      "brand": "Brand A",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 8,
+      "name": "Car 8",
+      "brand": "Brand B",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 9,
+      "name": "Car 9",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 10,
+      "name": "Car 10",
+      "brand": "Brand A",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 11,
+      "name": "Car 11",
+      "brand": "Brand B",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 12,
+      "name": "Car 12",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 13,
+      "name": "Car 13",
+      "brand": "Brand A",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 14,
+      "name": "Car 14",
+      "brand": "Brand B",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 15,
+      "name": "Car 15",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 16,
+      "name": "Car 16",
+      "brand": "Brand A",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 17,
+      "name": "Car 17",
+      "brand": "Brand B",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 18,
+      "name": "Car 18",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 19,
+      "name": "Car 19",
+      "brand": "Brand A",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 20,
+      "name": "Car 20",
+      "brand": "Brand B",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 21,
+      "name": "Car 21",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 22,
+      "name": "Car 22",
+      "brand": "Brand A",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 23,
+      "name": "Car 23",
+      "brand": "Brand B",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 24,
+      "name": "Car 24",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 25,
+      "name": "Car 25",
+      "brand": "Brand A",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 26,
+      "name": "Car 26",
+      "brand": "Brand B",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 27,
+      "name": "Honda City",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 28,
+      "name": "Car 28",
+      "brand": "Brand A",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 29,
+      "name": "Car 29",
+      "brand": "Brand B",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 30,
+      "name": "Car 30",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    },
+
+    {
+      "id": 31,
+      "name": "Car 31",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    },
+
+    {
+      "id": 32,
+      "name": "Car 32",
+      "brand": "Brand C",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
+  
